@@ -1,0 +1,10 @@
+ls - listeleme
+cd - bir seviye asagi inme
+cd .. - bır ust seviyeye cikma
+mkdir - yeni klasor'
+touch - istedigin turde sey olusturur
+open (-a) - istedigin dosyayi acar
+rm - istedigin dosyayi siler
+pwd - hangi dizinde oldugunu gosterir
+rm * - herseyi siler
+rm -r - dizini siler
