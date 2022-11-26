@@ -1,0 +1,4 @@
+Create a new data - db.table_name.insertOne/insertMany({....})
+Read datas - db.table_name.find()/.find({name: "Pencil})/.find({price: {$gt:1 })(price>1)/.find({_id:5}, {name:1, _id=0})
+Update datas - db.table_name.updateOne({_id:1}, {$set:{stock:32}})
+Delete datas - db.table_name.deleteOne/deleteMany({_id:2})

@@ -1,0 +1,19 @@
+db.products.insert(
+{
+  _id: 2,
+  name: "Pencil",
+  price: 1.2,
+  stock: 32,
+  reviews: [
+  {
+    authorName: "Selly",
+    rating: 5,
+    review: "Faber-Castell is amazing one"
+  },
+  {
+    authorName:"John",
+    rating: 5,
+    review: "So smooth"
+  }
+  ]
+})
